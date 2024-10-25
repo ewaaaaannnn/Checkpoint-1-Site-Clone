@@ -1,0 +1,18 @@
+.bg-image {
+  background-image: url(https://images.unsplash.com/photo-1492138786289-d35ea832da43?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: cover;
+}
+
+.header-txt {
+  color: white;
+  text-shadow: 10px;
+}
+
+main img {
+  width: 70%;
+
+}
+
+.quotes-bg {
+  background-color: #eaeaea;
+}
