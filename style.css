@@ -16,3 +16,21 @@ main img {
 .quotes-bg {
   background-color: #eaeaea;
 }
+
+
+@media screen and (min-width: 768px) {
+
+  .relative-card {
+    position: relative;
+    top: 8em;
+  }
+
+  .card-offset-bottom {
+    margin-top: -6em;
+  }
+
+  .card-offset-top {
+    margin-bottom: 3em;
+  }
+
+}
