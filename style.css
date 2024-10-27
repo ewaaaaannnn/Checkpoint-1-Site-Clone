@@ -8,7 +8,7 @@
   text-shadow: 10px;
 }
 
-main img {
+.computer-img {
   width: 70%;
 
 }
@@ -18,7 +18,15 @@ main img {
 }
 
 
-@media screen and (min-width: 768px) {
+.middle-margin {
+  margin-top: 4em;
+}
+
+.map {
+  width: 100%;
+}
+
+@media screen and (min-width: 1205px) {
 
   .relative-card {
     position: relative;
