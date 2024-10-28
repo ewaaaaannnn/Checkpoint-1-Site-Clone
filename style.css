@@ -26,6 +26,10 @@
   width: 100%;
 }
 
+.big-card {
+  height: 125%;
+}
+
 @media screen and (min-width: 1205px) {
 
   .relative-card {
